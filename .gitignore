@@ -1,0 +1,53 @@
+# Criado por https://www.toptal.com/developers/gitignore/api/java
+# Editar em https://www.toptal.com/developers/gitignore?templates=java
+
+.idéia/*
+.atrair/*
+
+### Java ###
+# Arquivo de classe compilado
+*..class
+
+# Arquivo de log
+*..log
+
+# Arquivos BlueJ
+*.ctxt
+
+# Ferramentas móveis para Java (J2ME)
+.mtj.tmp/
+
+# Arquivos de pacote #
+*..jar
+*.guerra
+*.Nar
+*.orelha
+*..zip
+*..tar.gz
+*..rar
+
+# logs de falha da máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+### Maven ###
+alvo/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependência reduzida-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos gerados pelo Eclipse m2e
+# Núcleo do Eclipse
+.projeto
+# Específico para JDT (Eclipse Java Development Tools)
+.classpath
+
+# Fim da https://www.topta
+/*.iml
